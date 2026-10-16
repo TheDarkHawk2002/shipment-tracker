@@ -4,7 +4,7 @@ Ein Java-Konsolenprogramm verwaltet Sendungen, Statusereignisse und erwartete Li
 
 ## Zielumfang
 
-- Kleines, allgemein gehaltenes Konsolenprojekt ohne Arbeitgeber- oder Stellenbezug im Produktnamen.
+
 - Geplanter Aufwand: 1 bis 2 Tage mit jeweils 5 bis 6 Stunden.
 - Einstiegspunkt und Implementierung sind noch offen; die Lösung wird schrittweise selbst ausgearbeitet.
 
