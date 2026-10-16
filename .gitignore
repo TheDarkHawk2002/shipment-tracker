@@ -10,6 +10,7 @@ node_modules/
 dist/
 build/
 target/
+.m2-cache/
 *.class
 .idea/
 .vscode/
